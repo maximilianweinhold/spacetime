@@ -1,4 +1,4 @@
-A space to at least think before time. A just-now starting repo. 
+A space to at least think before time. A now-having-started starting repo. 
 
 Does an algorithm exist below the Planck time? Survey says maybe! A gift from BHs. 
 
