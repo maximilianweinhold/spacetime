@@ -2,7 +2,7 @@ Cleverly stated, we('ve) prove nothing. Just a note. I'm working on it, let's ch
 
 Idk what - if functionally nothing - goes on under the planck interval, but some signs point the way. 
 
-There exists a great deal of residual heat in space at any given moment. Even un-useful 'waste'. Assuming we are able to use at least some of this to nonsensically shuffle, not requiring energy until a state transition is found, we may create an exploratory space on molecules. Then, if a modicum of conformational energy is left over (dampened), or pre-loaded, into space it seems like it could resemble something else. ON THE SCALES WE'RE INTERESTED IN ONLY MOMENTARILY, since we're dealing with (information theoretic) black holes. At least, as you define it as representing orthogonally to our 'regular' spacetime. 
+There exists a great deal of residual heat in space at any given moment. Even un-useful 'waste'. Assuming we are able to use at least some of this to nonsensically shuffle, not requiring energy until a state transition is found, we may create an exploratory space on molecules. Then, if a modicum of conformational energy is left over (damped), or pre-loaded, into space it seems like it could resemble something else. ON THE SCALES WE'RE INTERESTED IN ONLY MOMENTARILY, since we're dealing with (information theoretic) black holes. At least, as you define it as representing orthogonally to our 'regular' spacetime. 
 
 --> I don't know where any of that came from, bt I do know this:
 
