@@ -1,3 +1,7 @@
+Roughly right now, im trying to tile both sides of the Planck length with Kolmogorov complexity. 
+
+---
+
 Let's chat! Considering proofs for the (in)existence of a global state, the (in)existence of the dynamics below the Planck interval, the non-ordering of neutrinos. 
 
 There exists a great deal of residual heat in space at any given moment. Even un-useful 'waste'. Assuming we are able to use at least some of this to allow a not-yet sensical shuffling, requiring no further enthalpy until a state transition is found, we may create an exploratory space before molecules. If a modicum of conformational energy is left over (damped), or loaded, into space it seems like it could convolute to resemble something else. ON THE SCALES WE'RE INTERESTED IN ONLY MOMENTARILY, since my intuition says we're dealing with (information theoretic) black holes. At least, as you define it as representing orthogonally to our 'regular' spacetime. 
