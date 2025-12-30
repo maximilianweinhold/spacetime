@@ -1,4 +1,4 @@
-Roughly right now, im trying to tile both sides of the Planck length with Kolmogorov complexity. 
+Roughly right now, im trying to tile both sides of the Planck length with Kolmogorov complexity. Sorry. a connection with ZFC needs to be stronger. 
 
 ---
 
