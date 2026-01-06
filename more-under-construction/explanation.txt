@@ -1,9 +1,5 @@
-Presently I'm working to see if I can demonstrate that no global state may exist, or that at the least we may not imagine it invariant. Seemingly, the notion of uncertainty may give us an answer, though a notice arises: 
+Obviously a global state exists, right? Can we pretend its invariant for the purposes of the experiment? Where does die unschärferelation come in? 
 
-Is a twice-orthogonalized (stepout-stepin) state identical? Since an identical preparation is subject to uncertainty, this would necessitate either an un(fully)knowable global state, or a continuously (through the discretization present at the Planck interval) variant form. 
-
-If the twice-orthogonalized state is itself orthogonal to the initial state, we may be able to forego uncertainty through at least necessitating that the transition probability is unity. Since the global state is non-identical (at least as I understand orthogonality, pardon a development on an undergraduate physics education), we need not include the necessity of variation through indeterminancy.
-
-I personally like the idea of developing this through an angular-spin formulation, which nicely subsumes mass and dimension into a moment of inertia. 
+Twice-orthogonalized (stepout-stepin) recovery? Discretization below? Can spin drop below? Is this all in the application of logic, and thus illogical? 
 
 Could there be a different branch? 
