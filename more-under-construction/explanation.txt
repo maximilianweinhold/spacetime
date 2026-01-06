@@ -1,4 +1,4 @@
-Obviously a global state exists, right? Can we pretend its invariant for the purposes of the experiment? Where does die unschärferelation come in? 
+Obviously a global state exists, right? Can we pretend it's invariant for the purposes of the experiment? Where does die unschärferelation come in? 
 
 Twice-orthogonalized (stepout-stepin) recovery? Discretization below? Can spin drop below? Is this all in the application of logic, and thus illogical? 
 
