@@ -1,4 +1,6 @@
-Roughly right now, im trying to tile both sides of the Planck length with Kolmogorov complexity. Sorry. a connection with ZFC needs to be stronger. 
+K-theory and C*-algebras seem interesting, though the star might be different. 
+
+Are there two sides of the Planck length? Can we tile with Kolmogorov complexity? Sorry. a connection with ZF(C) needs to be stronger. 
 
 ---
 
