@@ -1,3 +1,7 @@
+Ok, revisions didn't get there. I'll keep chipping away. 
+
+---
+
 K-theory and C*-algebras seem interesting, though the star might be different. 
 
 Are there two sides of the Planck length? Can we tile with Kolmogorov complexity? Sorry. a connection with ZF(C) needs to be stronger. 
