@@ -1,0 +1,9 @@
+1. It's perhaps expected that starting with a concept of black holes, to a failed (early) conjuring of an entanglement measure (presumably a witness would be useful) could link to the specific dual AdS-CFT. The connection with the Planck time, on the other hand is more tenuous. I only say they resemble if the Planck time likewise has 'no-hair' - though whether analogues to mass, charge, and spin show up as global variables is unknown. Maybe the Planck time does not 'make unrecoverable' to (structured) physical operators we place inside, who knows how to demonstrate that? 
+2. Why did I place the assumption as the proof conclusion? Perhaps a lightness of (juxta-)composed dual space really felt like it resembled the action of a 0-length definition. And while I believe the AdS-CFT is still conjectured, why was it the aforementioned dual I chose?
+>It could just be Bayesian workshopping, which is first mostly wrong and subsequently hopefully less wrong.   
+3. I do like the denotation of the Planck time, which as construction I tacitly referred to with Kolmogorov complexity; though ask me what I really think about $tac$, as 0. I know it has very small length in physical units, but what is physical below those units? I'm thinking we say the action of the metric is zero though its worth in physical units = 1? 
+%%4. Is scrambling the same as making-nonsense? Can we make clever nonsense? 
+4. Working on a problem? Bring me up to speed! 
+
+
+
