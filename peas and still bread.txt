@@ -1,0 +1,6 @@
+So far I've only got $(o*o*o\cdots)b = b$
+
+
+Lovely isn't it? So unexpected. But why not? Eventually one must simply ignore all the $o$s
+
+Or with the title, does it make more sense to say $O + b$
