@@ -1,3 +1,7 @@
+Say you have a given collection of dynamic operator-forms in a certain background. As the background becomes something else or as the dynamic operator-forms combine, split, or substitute, how does the picture change? Some elements have a quite pronounced effect on the picture. If I run a computation on the picture, what conditions lead singularities to form? Well, probably an exceedance of posted limits. 
+
+---
+
 Ok, revisions didn't get there. I'll keep chipping away. 
 
 ---
