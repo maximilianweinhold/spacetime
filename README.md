@@ -18,15 +18,13 @@ There exists a great deal of residual heat in space at any given moment. Even un
 
 --> I don't know where any of that came from, bt I do know this:
 
-Somewhere far above are objects. From their ceiling, we'd call them molecules. And somehow, a persistent ordering and flexibility of space enables them to fly and blob and spallate in wonderous ways. Chemistry aside, you know we can't perturb these <attosecond processes at attosecond scales, since I'd **imagine** quite immediately finding Uncertainty(), we *imagine* some notion of energy and some notion of clustering in space. Like a stress-energy tensor. But I've heard tell that at some scale you can't tell time, at least not from just-about the concist representation of it at sqrt(h G \ 2 pi c^5). What if 2 pi wants to be with c . I demonstrated in my dissertation that imagination creates legalities, as _vice versa_, which is a nice arranged assemblage on order. 
+Somewhere far above are objects. From their ceiling, we'd call them molecules. And somehow, a persistent ordering and flexibility of space enables them to fly and blob and spallate in wonderous ways. With Uncertainty(), we seem to invariably *imagine* some notion of energy and some notion of clustering in space, except maybe in the vacuum. I find sqrt(h G \ 2 pi c^5) very concise, though I wonder if the pieces shuffled around changes the resulting computation. Does 2pi always stick with h, or can it find a way to c? I demonstrated in my dissertation that imagination creates legalities, as legalities shape and yes, constrain imaginations. Care to write some words in your own law? 
 
-What signal, if any, crosses the gap? 
-
-And, can there be a computation on any signal that traverses, such that it may find a black hole before it happens? 
+What signal, if any, crosses the gap, and does the universe observe a gap? 
 
 ===
 
-I say no further explanation than what a curiousity may tell, that perhaps an explanation is needed for the quantization of space. 
+I say no further explanation than what a curiousity may tell, and a secret of roving objects, that perhaps an explanation is needed to explain away the quantization of space. 
 
 
 
