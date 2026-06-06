@@ -1,3 +1,7 @@
+I originally posted before we question spacetime to graduate students at UCSD. While they presumably work through the ideas with grace I post some hasty musings to keep you all interested. I'll referee your Milleneum prize construction if you ask. 
+
+---
+
 Say you have a given collection of dynamic operator-forms in a certain background. As the background becomes something else or as the dynamic operator-forms combine, split, or substitute, how does the picture change? Some elements have a quite pronounced effect on the picture. If I run a computation on the picture, what conditions lead singularities to form? Well, probably an exceedance of posted limits. 
 
 ---
