@@ -1,16 +1,12 @@
-I originally posted before we question spacetime to graduate students at UCSD. While they presumably work through the ideas with grace I post some hasty musings to keep you all interested. I'll referee your Milleneum prize construction if you ask. 
+Holding types in mind after a initial display we check at the end of a pre-determined runtime to hopefully note constancy. I spent a lot of time trying ideas for weird constructions of planck units which is interesting but I found new research that to me for now settles the vacuum catastrophe as solved, so I'll try and learn where I can imagine AdS lurking in a certainly nearly-there and empty deSitter expanding universe - if only to harness a bit of holography in computations! 
 
 ---
 
-Say you have a given collection of dynamic operator-forms in a certain background. As the background becomes something else or as the dynamic operator-forms combine, split, or substitute, how does the picture change? Some elements have a quite pronounced effect on the picture. If I run a computation on the picture, what conditions lead singularities to form? Well, probably an exceedance of posted limits. 
+Say you have a given collection of dynamic operator-forms in a certain background. As the background becomes something else or as the dynamic operator-forms combine, split, or substitute, how does the picture change? Some elements have a quite pronounced effect on the picture. If I run a computation on the picture, what conditions lead singularities to form? Well, probably an exceedance of posted limits or an unforeseen combination of dynamics. 
 
 ---
 
-Ok, revisions didn't get there. I'll keep chipping away. 
-
----
-
-K-theory and C*-algebras seem interesting, though the star might be different. 
+K-theory and C*-algebras seem interesting alongside rings, anyone know anything of all that?  
 
 Are there two sides of the Planck length? Can we tile with Kolmogorov complexity? Sorry. a connection with ZF(C) needs to be stronger. 
 
