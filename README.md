@@ -1,3 +1,6 @@
+Which types stay constant? Proton, in a bonding region. Neutron in a cusp for a stable element lifetime. Optimize for muon direction. W/electron tau bend. 
+---
+
 Holding types in mind after a initial display we check at the end of a pre-determined runtime to hopefully note constancy. I spent a lot of time trying ideas for weird constructions of planck units which is interesting but I found new research that to me for now settles the vacuum catastrophe as solved, so I'll try and learn where I can imagine AdS lurking in a certainly nearly-there and empty deSitter expanding universe - if only to harness a bit of holography in computations! 
 
 ---
