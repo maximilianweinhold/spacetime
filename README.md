@@ -1,8 +1,6 @@
 Which types stay constant? Proton, in a bonding region. Neutron in a cusp for a stable element lifetime. Optimize for muon direction. W/electron tau bend. 
 ---
-
-Holding types in mind after a initial display we check at the end of a pre-determined runtime to hopefully note constancy. I spent a lot of time trying ideas for weird constructions of planck units which is interesting but I found new research that to me for now settles the vacuum catastrophe as solved, so I'll try and learn where I can imagine AdS lurking in a certainly nearly-there and empty deSitter expanding universe - if only to harness a bit of holography in computations! 
-
+The most interesting thing about Holography is it exists in a mathematical construction anterior our own. 
 ---
 
 Say you have a given collection of dynamic operator-forms in a certain background. As the background becomes something else or as the dynamic operator-forms combine, split, or substitute, how does the picture change? Some elements have a quite pronounced effect on the picture. If I run a computation on the picture, what conditions lead singularities to form? Well, probably an exceedance of posted limits or an unforeseen combination of dynamics. 
