@@ -1,7 +1,3 @@
-Which types stay constant? Proton, in a bonding region. Neutron in a cusp for a stable element lifetime. Optimize for muon direction. W/electron tau bend. 
----
-The most interesting thing about Holography is it exists in a mathematical construction anterior our own. 
----
 
 Say you have a given collection of dynamic operator-forms in a certain background. As the background becomes something else or as the dynamic operator-forms combine, split, or substitute, how does the picture change? Some elements have a quite pronounced effect on the picture. If I run a computation on the picture, what conditions lead singularities to form? Well, probably an exceedance of posted limits or an unforeseen combination of dynamics. 
 
