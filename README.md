@@ -1,23 +1,20 @@
-
-Say you have a given collection of dynamic operator-forms in a certain background. As the background becomes something else or as the dynamic operator-forms combine, split, or substitute, how does the picture change? Some elements have a quite pronounced effect on the picture. If I run a computation on the picture, what conditions lead singularities to form? Well, probably an exceedance of posted limits or an unforeseen combination of dynamics. 
-
----
-
-K-theory and C*-algebras seem interesting alongside rings, anyone know anything of all that?  
-
-Are there two sides of the Planck length? Can we tile with Kolmogorov complexity? Sorry. a connection with ZF(C) needs to be stronger. 
+Say you have a given collection of dynamic operator-forms in a certain background. As the frame itself shifts or (within the frame) as dynamic operator-forms combine, split, or substitute, do our equations change? Some localized elements have a quite pronounced effect on the picture, which we might call singularities. If I run a computation on the picture, do singularities form, move, or patch? 
 
 ---
 
-Let's chat! Considering proofs for the (in)existence of a global state, the (in)existence of the dynamics below the Planck interval, the non-ordering of neutrinos. 
+K-theory and C*-algebras seem interesting alongside rings, anyone know anything of all that?  _Ok big woop, non-commutative frameworks; I think the non-commutativity is where we gain any interesting signal of directionality_ 
 
-There exists a great deal of residual heat in space at any given moment. Even un-useful 'waste'. Assuming we are able to use at least some of this to allow a not-yet sensical shuffling, requiring no further enthalpy until a state transition is found, we may create an exploratory space before molecules. If a modicum of conformational energy is left over (damped), or loaded, into space it seems like it could convolute to resemble something else. ON THE SCALES WE'RE INTERESTED IN ONLY MOMENTARILY, since my intuition says we're dealing with (information theoretic) black holes. At least, as you define it as representing orthogonally to our 'regular' spacetime. 
+Are there two sides of the Planck length? Can we cover with Kolmogorov complexity? _Kolmogorov complexity describes a computational size of a particular program; a unique cover would associate every Kolmogorov number with a particular field instance_
 
---> I don't know where any of that came from, bt I do know this:
+Set theory is a powerful framework that defines identity through comparison operations. I personally find it nice for its empty set element, though moving into physics any empty element - vacuum - might be frame or background dependent. 
 
-Somewhere far above are objects. From their ceiling, we'd call them molecules. And somehow, a persistent ordering and flexibility of space enables them to fly and blob and spallate in wonderous ways. With Uncertainty(), we seem to invariably *imagine* some notion of energy and some notion of clustering in space, except maybe in the vacuum. I find sqrt(h G \ 2 pi c^5) very concise, though I wonder if the pieces shuffled around changes the resulting computation. Does 2pi always stick with h, or can it find a way to c? I demonstrated in my dissertation that imagination creates legalities, as legalities shape and yes, constrain imaginations. Care to write some words in your own law? 
+---
 
-What signal, if any, crosses the gap, and does the universe observe a gap? 
+Let's chat! Considering logical proofs for the (in)existence of a global state, the (in)existence of the dynamics below the Planck interval, the presentation of neutrinos. 
+
+I'm also thinking about using background 'waste' heat to shuffle conformations in an exploratory space. I imagine cosmic anchors as shells on which I place (smeared equally across the long-lived surface) an unfortunate observer. 
+
+Is the Planck length physical? Is there time less than the Planck time? Can a singularity signal its presence before it has formed? 
 
 ===
 
@@ -34,4 +31,4 @@ Can a framed operator algebra on a limited runtime compute molecules? Evidently 
 
 If you've got a proof with neutrinos, I'm all ears. 
 
-Before we question spacetime, capitalization added, is the original manuscript. Some things are wrong as I'm trying to presently prove. The star is a fill-in for a mode of operation, which is stated as uncertainty while time. Want to help me (re-)design *tacparcel*? 
+Before we question spacetime, capitalization added, is the original manuscript. Some things are wrong as I'm trying to presently prove. The star is a fill-in for a mode of operation, which is stated as uncertainty while time. Want to help me (re-)design *tacparcel*? _tacparcel is a generic algorithm that varies a frame_
